@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Imperial+Script&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Work+Sans:ital,wght@1,100..900&display=swap'); /* src/app.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
